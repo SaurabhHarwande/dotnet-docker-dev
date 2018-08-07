@@ -1,0 +1,14 @@
+/app/bin/Debug/netcoreapp2.1/demo-webapi.deps.json
+/app/bin/Debug/netcoreapp2.1/demo-webapi.runtimeconfig.json
+/app/bin/Debug/netcoreapp2.1/demo-webapi.runtimeconfig.dev.json
+/app/bin/Debug/netcoreapp2.1/demo-webapi.dll
+/app/bin/Debug/netcoreapp2.1/demo-webapi.pdb
+/app/obj/Debug/netcoreapp2.1/demo-webapi.csprojAssemblyReference.cache
+/app/obj/Debug/netcoreapp2.1/demo-webapi.csproj.CoreCompileInputs.cache
+/app/obj/Debug/netcoreapp2.1/demo-webapi.RazorAssemblyInfo.cache
+/app/obj/Debug/netcoreapp2.1/demo-webapi.RazorAssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/demo-webapi.AssemblyInfoInputs.cache
+/app/obj/Debug/netcoreapp2.1/demo-webapi.AssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/demo-webapi.RazorTargetAssemblyInfo.cache
+/app/obj/Debug/netcoreapp2.1/demo-webapi.dll
+/app/obj/Debug/netcoreapp2.1/demo-webapi.pdb
